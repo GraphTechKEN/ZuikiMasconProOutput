@@ -1,0 +1,2 @@
+# ZuikiMasconProOutput
+ズイキマスコンPROで戸閉灯とEB灯を点灯させるプラグイン
