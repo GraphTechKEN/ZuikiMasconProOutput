@@ -3,7 +3,7 @@
 
 セットアップ方法：
 
-0. BveEXを使用しますので適切にセットアップを行ってください。[BveEX](https://bveex.okaoka-depot.com/)
+0. BveEXを使用しますので適切にセットアップを行ってください。[BveEX公式HP](https://bveex.okaoka-depot.com/) [BveEX(Github)](https://github.com/automatic9045/BveEX)
 1. サハ209様のZUIKIインターフェイスを使用しますので適切にセットアップを行ってください。[三八電車店](https://saha209kame.web.fc2.com/index.html)
 2. 最新リリースからZIPファイルをDL後、ゾーン識別子の削除を行ってください。
 3. ファイル内のセットアップを実行してください。
